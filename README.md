@@ -36,10 +36,13 @@ This project is inspired by the **legendary Netflix Prize competition (2006)**, 
 ## 🔹 Run the project
 ```bash
 pip install scikit-learn pandas numpy surprise torch
-python netflix_like_ensemble.py
+python netflix.py
 
-🔹 References
+---
 
-Netflix Prize (2006)
+## 🔹 References
 
-MovieLens 100k Dataset
+- Netflix Prize (2006)
+
+- MovieLens 100k Dataset
+--
